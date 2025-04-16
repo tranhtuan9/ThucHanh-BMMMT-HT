@@ -1,3 +1,8 @@
 https://samsclass.info/126/proj/p2x-126-IDA.html
 https://docs.google.com/document/d/1XR9ghbrM9O2ZGTjA-0HwyiLTQl3VLunM/edit#heading=h.63dj9bwyx0zo
 https://download.eu.hex-rays.com/installers/9.0/ida-free-pc_90_x64linux.run?Expires=1744783085&Signature=J0w87vUiGu9tsMs8%2B%2FzwP462dskBbYKjjWUkP18antlH93GbesMPjWPLQIjBUbRAum3SBshounRFDKGzAH1jHWMOTvEeoFNcPq6K3cqlZXhYyQbSkfp2tUqugKXrbzH%2F9mw3QN15lxu0tVnFEsUAbCbq1RqkRpBoLiTW9JNgAMjP%2F8CYU463Mjaki7hC0Ef9w8RSRk6isLHFLo8Y9wbkVq1F6d7I9ylfvKfmEmEgqjlVMH9nWICIeBAlBkuvNkWm5AVaZgDsZIUIBhA0R%2FwZ0n9v%2B2XP%2BVDyjBEnFjK34i%2FRcTKpOtXNc6niUzy7NWfnnPg6dENVJFRn9LSEt5MUkQ%3D%3D&Key-Pair-Id=KQ28LT0D6PVBY
+deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware
+deb http://http.kali.org/kali kali-last-snapshot main contrib non-free non-free-firmware
+deb http://http.kali.org/kali kali-experimental main contrib non-free non-free-firmware
+deb http://http.kali.org/kali kali-bleeding-edge main contrib non-free non-free-firmware
+deb-src http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware
